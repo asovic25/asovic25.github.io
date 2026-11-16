@@ -1,0 +1,37 @@
+INBOX MANAGEMENT & EMAIL TRIAGE
+Virtual Assistant Work Sample | Demonstration
+
+Purpose: Demonstrate a repeatable process for reviewing a busy business inbox, prioritising messages, identifying required action and ensuring that follow-ups are not missed.
+
+1. Daily email triage workflow
+- Review new messages and identify urgent, time-sensitive or client-impacting requests.
+- Categorise messages as Action Required, Waiting for Reply, Scheduling, Information or Archive.
+- Flag deadlines, meeting requests, customer issues and messages requiring the business owner's approval.
+- Draft concise, professional responses using the organisation's tone and approved information.
+- Create follow-up reminders for unanswered requests and confirm that important items have an owner.
+- Archive completed messages only after the required action has been recorded.
+
+2. Sample inbox prioritisation
+Example message | Priority | Suggested action | Target response
+Client reports unable to access account | High | Acknowledge, gather details, escalate if needed | Within 1 business hour
+Supplier requests confirmation of delivery slot | Medium | Check calendar/order details and reply | Same business day
+Newsletter / industry update | Low | Review only if relevant; otherwise archive | No response required
+Meeting invitation for next week | Medium | Check availability and accept/propose alternative | Same business day
+
+3. Example professional response
+Subject: Re: Delivery schedule confirmation
+
+Hello [Name],
+
+Thank you for your message. I’m checking the proposed delivery window against the current schedule and will confirm the available slot shortly.
+
+Kind regards,
+Virtual Assistant
+
+4. Quality checks
+- Names, dates, attachments and links checked before sending.
+- No confidential information shared without authorisation.
+- Every open request has a clear next action and follow-up date.
+- Escalations are documented and sent to the appropriate person.
+
+Note: This is a fictional practice scenario created to demonstrate workflow and communication. It is not a record of work performed for a real client.

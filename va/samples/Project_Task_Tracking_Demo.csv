@@ -1,0 +1,10 @@
+PROJECT TASK & DELIVERY TRACKER,,,,,,,,
+"ClickUp-inspired sample tracker. This workbook demonstrates task ownership, priorities, deadlines and status management; it is not an exported ClickUp workspace.",,,,,,,,
+,,,,,,,,
+Task ID,Task / Deliverable,Workstream,Owner,Priority,Due Date,Status,Next Action / Notes
+VA-001,Prepare weekly status report,Operations,Victor (VA),High,2026-11-17,In Progress,Collect updates and summarise blockers
+VA-002,Confirm client onboarding meeting,Client Services,Victor (VA),High,2026-11-17,To Do,Check calendar and send confirmation
+VA-003,Update contact database,Admin,Victor (VA),Medium,2026-11-18,To Do,Check duplicates and missing fields
+VA-004,Draft meeting agenda,Operations,Victor (VA),Medium,2026-11-19,To Do,Circulate agenda before meeting
+VA-005,Follow up on supplier quotation,Procurement,Victor (VA),Medium,2026-11-20,Waiting,Await supplier response
+VA-006,Archive completed project records,Admin,Victor (VA),Low,2026-11-20,To Do,Use agreed folder naming convention

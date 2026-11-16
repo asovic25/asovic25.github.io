@@ -1,0 +1,10 @@
+DATA ENTRY & QUALITY CHECK REGISTER,,,,,,,
+"Fictional sample records demonstrating structured entry, consistent statuses and follow-up identification.",,,,,,,
+,,,,,,,
+Record ID,Date,Region,Item,Quantity,Amount (USD),Payment Status,Quality / Follow-up
+ORD-2001,2026-11-10,North,Office supplies,12,240,Paid,Complete
+ORD-2002,2026-11-10,West,Training materials,5,175.5,Pending,Follow-up
+ORD-2003,2026-11-11,East,IT accessories,8,96,Paid,Complete
+ORD-2004,2026-11-12,South,Stationery,20,110,Paid,Complete
+ORD-2005,2026-11-13,North,Software licence,2,300,Pending,Follow-up
+ORD-2006,2026-11-14,West,Office supplies,7,140,Paid,Complete

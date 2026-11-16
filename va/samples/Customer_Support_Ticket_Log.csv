@@ -1,0 +1,9 @@
+CUSTOMER SUPPORT TICKET LOG,,,,,,
+Fictional customer records for demonstration only. No real customer information is included.,,,,,,
+,,,,,,
+Ticket ID,Customer,Issue Type,Priority,Status,Next Action,Response Target
+TKT-1001,Customer A,Login/access issue,High,Open,"Acknowledge, verify account details, escalate securely",Within 1 hour
+TKT-1002,Customer B,Order status enquiry,Medium,Pending,Check order system and provide accurate update,Same business day
+TKT-1003,Customer C,Billing clarification,Medium,Resolved,Explain invoice line item and confirm understanding,Completed
+TKT-1004,Customer D,Product information request,Low,Open,Share approved product information and offer assistance,Within 1 business day
+TKT-1005,Customer E,Appointment rescheduling,Medium,Pending,Offer available alternative slots and confirm,Same business day
